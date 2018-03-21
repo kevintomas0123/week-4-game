@@ -1,0 +1,62 @@
+h1{
+    color: sandybrown;
+}
+
+
+
+.crystal1 {
+    height:300px;
+    width:200px;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    float: left;
+}
+
+.crystal2 {
+    height:300px;
+    width:200px;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    float: left;
+}
+.crystal3 {
+    height:300px;
+    width:200px;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    float: left;
+}
+
+.crystal4 {
+    height:300px;
+    width:200px;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    float: left;
+}
+
+.score{
+    display: block;
+    clear: both;
+    float: left;
+    color: sandybrown;
+}
+
+.totalScore{
+    display: block;
+    clear: both;
+    float: left;
+    color: sandybrown;
+}
+
+.WinsAndLose{
+    color: sandybrown;
+}
+
+#targetNumber{
+    color: sandybrown;
+}
